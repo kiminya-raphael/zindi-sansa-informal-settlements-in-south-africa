@@ -1,0 +1,9 @@
+fastai
+rasterio
+awscli
+efficientnet_pytorch
+albumentations
+opencv-python
+scikit-learn
+numpy
+pandas
